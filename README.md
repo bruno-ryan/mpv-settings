@@ -3,10 +3,11 @@ My settings for MPV
 
 # List of scripts used:
 - mpvacious
-- autoload.lua
-- mpv_thumbnail_script.lua
-- playlistmanager.lua
-- youtube-quality.lua
+- autoload
+- playlistmanager
+- youtube-quality
+- osc-tethys
+- thumbfast
 
 # Installation:
 ### Windows
